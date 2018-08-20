@@ -5,3 +5,7 @@ body {
 h2{
 color: Gray;
 }
+
+p {
+  text-indent: 1.5em;
+}
