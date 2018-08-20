@@ -9,3 +9,8 @@ color: Gray;
 p {
   text-indent: 1.5em;
 }
+
+h1{
+    font-size: 75%;
+    text-decoration: underline;
+}
